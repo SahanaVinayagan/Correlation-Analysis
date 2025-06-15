@@ -1,4 +1,4 @@
-''' Correlation Analysis of Risk Factors of Diabetes using Machine Learning
+Correlation Analysis of Risk Factors of Diabetes using Machine Learning
 
 This project analyzes various health and lifestyle factors to determine their correlation with diabetes using a machine learning approach. By applying data preprocessing, correlation analysis, and a Random Forest Classifier, the project identifies the most significant risk factors and predicts diabetes outcomes with measurable accuracy.
 
@@ -71,4 +71,3 @@ This project can be executed using Jupyter Notebook or any Python IDE:
 
      •Plots a graph showing the top 10 important features
 
-'''
