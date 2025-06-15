@@ -44,13 +44,13 @@ Project Workflow
 Project Structure
 Correlation Analysis/
 │
-├── diabetes_dataset.csv                 # Dataset used
-├── correlation_analysis.py              # Main Python script
-├── README.md                            
-├── requirements.txt                     # Python dependencies
-├── Images/                              
-   ├── correlation-matrix.png            # Correlation heatmap
-   └── feature-importance.png            # Top features bar chart
+├── diabetes_dataset.csv 
+├── correlation_analysis.py 
+├── README.md
+├── requirements.txt 
+├── Images/
+    ├── correlation.png 
+    └── top10.png 
  
 
 How to Run the Project
